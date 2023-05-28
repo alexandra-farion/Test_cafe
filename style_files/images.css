@@ -1,0 +1,310 @@
+.img_raspberry_mood {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/cakes/малиновое_настроение.jpg);
+    background-size: cover;
+}
+
+.img_macaron {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/cakes/Макарон.jpg);
+    background-size: cover;
+}
+
+.img_pancakes_with_banana {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/cakes/панкейки_с_бананом.jpg);
+    background-size: cover;
+}
+
+.img_cupcake_spring {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/cakes/Кексик_весеннний.jpg);
+    background-size: cover;
+}
+
+.img_strawberry_delight {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/cakes/Клубничное_наслаждение.jpg);
+    background-size: cover;
+}
+
+.img_cake_bee {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/cakes/пирожное_пчёлка.jpg);
+    background-size: cover;
+}
+
+.img_basket_with_pistachios {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/cakes/корзинка_с_фисташками.jpg);
+    background-size: cover;
+}
+
+.img_blueberry_souffle {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/cakes/Суфле_черничное.jpg);
+    background-size: cover;
+}
+
+.img_berry_stump {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/cakes/Ягодный_пень.jpg);
+    background-size: cover;
+}
+
+.img_cake_twilight {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/cakes/Торт_сумерки.jpg);
+    background-size: cover;
+}
+
+.img_cake_chocolate {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/cakes/Торт_шоколадница.jpg);
+    background-size: cover;
+}
+
+.img_cake_summer {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/cakes/Тортик_летний.jpg);
+    background-size: cover;
+}
+
+.img_flower_tea {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/beverages/цветочный_чай.jpg);
+    background-size: cover;
+}
+
+.img_milkshake {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/beverages/Молочный_коктейль.jpg);
+    background-size: cover;
+}
+
+.img_chicory {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/beverages/Цикорий.jpg);
+    background-size: cover;
+}
+
+.img_latte {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/beverages/Латте.jpg);
+    background-size: cover;
+}
+.img_lemon_with_tea {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/beverages/Лимон_с_чаем.jpg);
+    background-size: cover;
+}
+.img_curly_cappuccino {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/beverages/фигурный_капучино.jpg);
+    background-size: cover;
+}
+
+.img_tea_for_two {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/beverages/чай_вдвоём.jpg);
+    background-size: cover;
+}
+.img_lonely_mulled_wine {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/beverages/одинокий_глинтвейн.jpg);
+    background-size: cover;
+}
+.img_mulled_wine_for_two {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/beverages/глинтвейн_для_двоих.jpg);
+    background-size: cover;
+}
+
+.img_tea_with_cinnamon {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/beverages/Чай_с_корицей.jpg);
+    background-size: cover;
+}
+.img_mystery_drink {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/beverages/загадочный_напиток.jpg);
+    background-size: cover;
+}
+.img_black_tea {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/beverages/Чай_чёрный.jpg);
+    background-size: cover;
+}
+
+.img_watermelon_freshness {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/iscream/арбузная_свежесть.jpg);
+    background-size: cover;
+}
+
+.img_fairy_tale {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/iscream/Сказка.jpg);
+    background-size: cover;
+}
+.img_сoffee_ice_cream {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/iscream/Кофейное_мороженое.jpg);
+    background-size: cover;
+}
+
+.img_fig_ice_cream {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/iscream/Инжирное_мороженое.jpg);
+    background-size: cover;
+}
+.img_black_white_and_nuts {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/iscream/Чёрное_белое_и_орешки.jpg);
+    background-size: cover;
+}
+.img_blueberry_glass {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/iscream/Черничный_стакан.jpg);
+    background-size: cover;
+}
+
+.img_He_and_She {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/iscream/Он_и_Она.jpg);
+    background-size: cover;
+}
+.img_ice_cream_cube {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/iscream/кубик_мороженого.jpg);
+    background-size: cover;
+}
+.img_dessert_ice_cream {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/iscream/Десертное_мороженое.jpg);
+    background-size: cover;
+}
+
+.img_raspberry_miracle {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/iscream/Малиновое_чудо.jpg);
+    background-size: cover;
+}
+.img_balls_in_assortment {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/iscream/Шарики_в_ассортименте.jpg);
+    background-size: cover;
+}
+.img_strawberry_miracle {
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+
+    background: url(../img/iscream/Клубничное_чудо.jpg);
+    background-size: cover;
+}

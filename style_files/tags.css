@@ -1,0 +1,88 @@
+header {
+    width: 100%;
+    display: flex;
+    height: 110px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin: 0;
+
+    background: #d5b59c;
+}
+
+nav {
+    font-family: 'Oswald', serif;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 36px;
+
+    display: flex;
+    text-transform: uppercase;
+}
+
+button {
+    width: 129px;
+    height: 55px;
+
+    margin-top: 30px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+
+    text-align: center;
+
+    color: black;
+}
+
+button:hover {
+    width: 129px;
+    height: 55px;
+    left: 655px;
+    top: 224px;
+
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+
+    text-align: center;
+
+    color: black;
+}
+
+.button_for_cakes
+{
+    background: #faebd7;
+    border: 3px solid #faebd7;
+}
+
+.button_for_cakes:hover
+{
+    background: #e8dec5;
+    border: 3px solid #e8dec5;
+}
+
+.button_for_beverages
+{
+    background: #E8E8E8;
+    border: 3px solid #E8E8E8;
+}
+
+.button_for_beverages:hover
+{
+    background: #D3D3D3;
+    border: 3px solid #D3D3D3;
+}
+footer {
+    display: flex;
+    height: 80px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+    align-self: end;
+    background: #d5b59c;
+}
+
